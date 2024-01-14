@@ -4,7 +4,7 @@ The project aims to develop a secure online voting system utilizing two central 
 
 ## Application Architecture
 
-![Picture9](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/db6d43de-8cd4-4dc9-a239-647d4fd30988)
+![Picture9](https://github.com/dosawaru/Voting_Application/assets/35234154/251eaad0-b045-4e3c-9c88-99d4bd7f31ef)
 
 ### 1. Communication Channel Establishment
 The CLA and CTF establish a continuous communication channel to exchange valid authorization numbers throughout the voting process.
@@ -67,34 +67,34 @@ Clone this repository
 Initially, the user is presented with this screen where 
 they will enter their user username:
 
-![Picture1](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/c3aa9ae4-f75c-482c-8208-d7f1d7c82099)
+![Picture1](https://github.com/dosawaru/Voting_Application/assets/35234154/20a136af-d760-4861-a790-6fe3252e2e84)
 
 A user will use their username to request voting access 
 from the CLA and the CLA will respond with a validation number:
 
-![Picture2](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/864f0643-77f3-4876-986f-83afbeb4ddf9)
+![Picture2](https://github.com/dosawaru/Voting_Application/assets/35234154/62e0bff2-3291-4fe4-9020-0d4b21455bd0)
 
 The user will then interface with the CTF where they can 
 enter their validation number and receive authorization to cast a vote:
 
-![Picture3](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/48e01986-5d51-41df-81d5-04550e55a667)
+![Picture3](https://github.com/dosawaru/Voting_Application/assets/35234154/0cefbe86-23c1-4fe8-a413-d2690736e068)
 
 Once a user is authenticated by their validation number, 
 the voting ballot will be available to them:
 
-![Picture4](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/175a7de5-a587-4de9-b918-1c908bff9d2c)
+![Picture4](https://github.com/dosawaru/Voting_Application/assets/35234154/d9afd4bf-f264-495a-8f78-d34708ce46e2)
 
 The user can cast their vote and see their vote reflected 
 in their tally:
 
-![Picture5](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/b3c2f644-9705-493d-8be1-7dc4e274db11)
+![Picture5](https://github.com/dosawaru/Voting_Application/assets/35234154/7db6bf41-56ed-4a85-882b-f2826e20b5fb)
 
 If a user attempts to use their validation number multiple 
 times to cast a vote, they will be denied:
 
-![Picture6](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/a26436fb-419e-42fd-bfc4-adb6928cc44a)
+![Picture6](https://github.com/dosawaru/Voting_Application/assets/35234154/2a45ff3c-ddfe-41f5-be56-ab58807c2a61)
 
 If an unauthorized validation number is used, they will 
 be denied access to submit a vote:
 
-![Picture7](https://github.com/dosawaru/Virtual-Election-System/assets/35234154/98c41f4b-d1fc-41a3-99fa-76b50025d00a)
+![Picture7](https://github.com/dosawaru/Voting_Application/assets/35234154/e7fa57a5-f46f-486e-8543-7b9cc98b5902)
