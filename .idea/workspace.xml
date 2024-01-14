@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a64f1ea9-36f4-488e-8b68-3518c731c8d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/Project_817.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual_Voting_Booth/Virtual_Voting_Booth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App.form" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_817/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Virtual_Voting_Booth/Voting_App.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Virtual_Voting_Booth/src/Voting_App.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2O9dTPEXizhLBjtSvxDR3TWPPIG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Voting_App.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "424",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Daniel/Documents/GitHub/Virtual_Voting_Booth",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Voting_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Voting_App" />
+      <module name="Virtual_Voting_Booth" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Voting_App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-b4911678" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a64f1ea9-36f4-488e-8b68-3518c731c8d9" name="Changes" comment="" />
+      <created>1680976743080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680976743080</updated>
+      <workItem from="1680976744981" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
