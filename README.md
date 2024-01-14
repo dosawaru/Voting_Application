@@ -21,6 +21,47 @@ Users interact with the CTF using their validation number and selecting voting o
 ### 5. Tally Update and Confirmation
 If approved, the CTF casts the vote and updates the tally. The CTF sends the updated tally to the user, confirming the successful casting of their vote.
 
+## Technologies Used
+
+- Java
+- Socket Programming
+- RSA Encryption
+- AES Encryption
+- Random Number Generation
+- Multi-Threading
+- Signature Verification
+- Public-Key Cryptography
+- Message Digest (SHA-256)
+- Base64 Encoding
+
+## Running the Project
+
+Clone this repository
+
+1. **Compile Files:**
+   ```bash
+   javac Client.java
+    ```
+   ```bash
+   javac CLA.java
+    ```
+   ```bash
+   javac CLF.java
+    ```
+   
+2. Run CLA and CLF Simultaneously to Establish a Connection:
+   ```bash
+   java CLA.java
+   ```
+   Open a new terminal and run:
+   ```bash
+   java CLF.java
+   ```
+   
+3. **Run Voting App GUI:**
+   ```bash
+   java Voting_App.java
+
 ## Program Screenshots (Results)
 
 Initially, the user is presented with this screen where 
